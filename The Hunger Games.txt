@@ -27,7 +27,7 @@ In sleep, my mother looks younger, still worn but not so beaten-down.
 在睡梦中, 我母亲看起来更年轻, 仍然疲惫但不再那么憔悴不堪.
 
 Prim's face is as fresh as a raindrop, as lovely as primrose for which she was named.
-Prim的脸庞像雨滴一样清新，像她的名字报春花一样可爱.
+Prim的脸庞像雨滴一样清新, 像她的名字报春花一样可爱.
 
 My mother was very beautiful once, too. Or so they tell me.
 我母亲曾经也很美丽, 至少他们告诉我是这样的.
@@ -250,7 +250,7 @@ Always close enough to run back to the safety of District 12 if trouble arises.
 以便麻烦出现时, 总能迅速地跑回12区的安全范围.
 
 "District Twelve. Where you can starve to death in safety", I mutter.
-"12区,  一个可以让你在安全中饿死的地方"，我低声自语.
+"12区,  一个可以让你在安全中饿死的地方", 我低声自语.
 
 Then I glance quickly over my shoulder.
 然后我迅速地瞥了我肩膀后面.
@@ -692,7 +692,7 @@ We don't hunt them on purpose, but if you're attacked and you take out a dog or 
 "一旦放进汤里, 我就称其为牛肉," Greasy Sa眨了眨眼说到.
 
 No one in the Seam would turn up their nose at a good leg of wild dog, but the Peacekeepers who come to the Hob can afford to be a little choosier.
-矿脉里, 没有人会对一条好的野狗腿嗤之以鼻，但是来到Hob的治安人员可以稍微挑剔一点.
+矿脉里, 没有人会对一条好的野狗腿嗤之以鼻, 但是来到Hob的治安人员可以稍微挑剔一点.
 
 词组/短语:
 
@@ -707,7 +707,7 @@ When we finish our business at the market, we go to the back door of the mayor's
 当我们在市场上忙完交易后, 我们去了市长家的后门, 卖掉一半的草莓, 知道他们特别喜欢草莓, 并且付得起我们的价钱.
 
 The mayor's daughter, Madge, opens the door. 
-市长的女儿, Madge， 开了门.
+市长的女儿, Madge,  开了门.
 
 She's in my year at school. 
 她跟我同一年级.
@@ -2002,7 +2002,7 @@ The merchants live above their businesses, so I was essentially in their backyar
 商人们住在他们的商店楼上, 所以我实际上是在他们的后院里.
 
 I remember the outlines of garden beds not yet planted for the spring, a goat or two in a pen, one sodden dog tied to a post, hunched defeated in the muck.
-我依稀记得尚未为春天种植的花坛的轮廓, 畜栏里关着一两只山羊, 一条浑身湿透的狗被拴在木桩上, 蜷缩着，沮丧地窝在烂泥里.
+我依稀记得尚未为春天种植的花坛的轮廓, 畜栏里关着一两只山羊, 一条浑身湿透的狗被拴在木桩上, 蜷缩着, 沮丧地窝在烂泥里.
 
 词组/短语:
 
@@ -2083,7 +2083,7 @@ It was too much.
 这太难了.
 
 I was too sick and weak and tired, oh, so tired.
-我病得太厉害, 疲惫不堪，哦， 真的太累了.
+我病得太厉害, 疲惫不堪, 哦,  真的太累了.
 
 Let them call the Peacekeepers and take us to the community home, I thought.
 让他们叫治安人员, 把我们送到社区之家吧, 我想.
@@ -2711,13 +2711,149 @@ pay attention to 注意
 all kinds of 各种各样的
 all along 一直以来
 
+[2026-02-02][英语学习][The Hunger Games][109][P38]原版双语阅读(本人原汁原味翻译)
 
+Finally, Gale is here and maybe there is nothing romantic between us, but when he opens his arms I don't hesitate to go into them.
+终于, Gale来了, 也许我们之间没有什么浪漫的情愫, 但他张开双臂时, 我毫不犹豫地投入他的怀抱.
 
+His body is familiar to me —— the way it moves, the smell of wood smoke, even the sound of his heart beating I know from quiet moments on a hunt —— but this is the first time I really feel it, lean and hard-muscled against my own.
+他的身体对我来说时熟悉的 —— 他行动的方式, 木柴燃烧的烟味, 甚至是在一次次安静的狩猎时刻里, 我早已熟悉的那颗心脏跳动的声音 —— 但这是我第一次真正感受到它, 精瘦而结实的肌肉贴着我的身体.
 
+词组/短语:
 
+[2026-02-05][英语学习][The Hunger Games][110][P38]原版双语阅读(本人原汁原味翻译)
 
+"Listen," he says.
+"听着," 他说.
 
+"Getting a knife should be pretty easy, but you've got to get your hands on a bow. That's your best chance."
+"弄到一把刀应该挺容易的, 但是你得想办法搞到一把弓. 那是你最好的机会."
 
+"They don't always have bows," I say, thinking of the year there were only horrible spiked maces that the tributes had to bludgeon one another to death with.
+"他们不一定有弓," 我说, 想到有一年, 只有那种可怕的带刺的狼牙棒, 贡品们只能用它们把彼此活活打死.
 
+"Then make one," says Gale.
+"那就自己做一把," Gale说.
 
+"Even a weak bow is better than no bow at all."
+"就算是一把很弱的弓, 也总比完全没有弓强."
 
+I have tried copying my father's bows with poor results.
+我曾试着模仿父亲做弓, 但效果很差.
+
+It's not that easy.
+这事一点也不简单.
+
+Even he had to scrap his own work sometimes.
+就连他有时也不得不把自己的作品废掉重来.
+
+"I don't even know if there'll be wood," I say.
+"我甚至都不知道会不会有木头," 我说.
+
+Another year, they tossed everybody into a landscape of nothing but boulders and sand and scruffy bushes.
+还有一年, 他们把所有人扔进了一片除了巨石, 沙地和杂乱灌木之外什么都没有的地方.
+
+I particularly hated that year.
+我尤其讨厌那一年.
+
+Many contestants were bitten by venomous snakes or went insane from thirst.
+很多参赛者被毒杀咬伤, 或者因为缺水而发疯.
+
+"There's almost always some wood," Gale says.
+"几乎总是能找到一些木头的," Gale说.
+
+"Since that year half of them died of cold. Not much entertainment in that."
+"自从那一年有一半的人冻死之后. 那一点也不有趣."
+
+It's true.
+这话没错.
+
+We spent one Hunger Games watching the players freeze to death at night.
+有一届饥饿游戏, 我们整场看着选手们在夜里活活冻死.
+
+You could hardly see them because they were just huddled in balls and had no wood for fires or torches or anything.
+几乎看不见他们, 因为他们只是蜷缩成一团, 而且没有木头生火, 没有火把, 什么都没有.
+
+It was considered very anticlimactic in the Capitol, all those quiet, bloodless deaths.
+在首都看来, 那些安静, 几乎不见血的死亡被认为非常缺乏高潮.
+
+Since then, there's usually been wood to make fires.
+从那以后, 竞技场里通常会有木头来生火.
+
+词组/短语:
+
+Get one's hands on: 费力弄到某物(尤指稀缺或难以获得的东西)
+Die of: 死于
+nothing but: 除了……什么都没有
+have to scrap one’s work: 不得不把作品报废, 推翻重来
+go insane from sth: 因某事而发疯
+
+[2026-02-11][英语学习][The Hunger Games][111][P40]原版双语阅读(本人原汁原味翻译)
+
+"Yes, there's usually some," I say.
+"是的, 通常都有一些," 我说.
+
+"Katniss, it's just hunting. You're the best hunter I know," says Gale.
+"Katniss, 这只是打猎. 你是我认识的最棒的猎人," Gale说.
+
+"It's not just hunting. They're armed. They think," I say.
+"这不只是打猎. 他们有武装, 而且他们会思考," 我说.
+
+"So do you. And you've had more practice. Real practice," he says.
+"你也会, 而且你受过更多的训练. 真正的实战训练," 他说.
+
+"You know how to kill."
+"你知道该怎么杀戮."
+
+"Not people," I say.
+"但杀的不是人," 我说.
+
+"How different can it be, really?" says Gale grimly.
+"能有多大区别呢, 真的？" Gale冷峻地说道.
+
+The awful thing is that if I can forget they're people, it will be no different at all.
+可怕的是, 如果我能忘记他们是人, 那确实就没什么区别了.
+
+The Peacekeepers are back too soon and Gale asks for more time, but they're taking him away and I start to panic.
+治安人员回来得太快了, 盖尔请求再多给点时间, 但他们正把他强行带走, 我开始感到恐慌.
+
+"Don't let them starve!" I cry out, clinging to his hand.
+"别让他们挨饿!" 我大喊道, 紧紧攥着他的手.
+
+"I won't! You know I won't! Katniss, remember I ——" he says, and they yank us apart and slam the door and I'll never know what it was he wanted me to remember.
+"我不会的! 你知道我不会的! 凯特尼斯, 记住我——" 他说道, 随后他们将我们猛地拉开, 并砰地关上了门. 我永远也不会知道他到底想让我记住什么了. 
+
+It's a short ride from the Justice Building to the train station.
+从司法大楼到火车站只有一小段车程.
+
+I've never been in a car before.
+我以前从未坐过轿车.
+
+Rarely even ridden in wagons.
+甚至很少坐马车.
+
+In the Seam, we travel on foot.
+在矿脉, 我们总是靠双脚出行.
+
+I've been right not to cry.
+我之前没有哭是对的.
+
+The station is swarming with reporters with their insectlike cameras trained directly on my face.
+车站里挤满了记者, 他们那像昆虫一样的摄像机全都对准我的脸.
+
+But I've had a lot of practice at wiping my face clean of emotions and I do this now.
+但我已经受过很多"表情管理"训练, 知道如何抹去脸上的情绪, 我现在正是这么做的.
+
+I catch a glimpse of myself on the television screen on the wall that's airing my arrival live and feel gratified that I appear almost bored.
+我在墙上的电视屏幕上瞥见自己, 那里正在直播我抵达的画面. 我暗自庆幸, 看起来我几乎有些无聊.
+
+词组/短语:
+
+Ask for (time/help): 请求 (时间/帮助)
+Take someone away: 将某人带走/强行带离.
+Cry out: 大声呼喊 (通常由于痛苦或激动)
+Be right to do something: 做某事是正确的
+Train (something) on: 将 (镜头、枪口、目光等) 对准某人.
+Catch a glimpse of: 瞥见, 无意中看到
+yank sb apart: 猛地拉开某人
+cling to sb/sth: 紧紧抓住
