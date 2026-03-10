@@ -265,7 +265,7 @@ in the middle of nowhere
 [2024-06-24][英语学习][The Hunger Games][10][P6]原版双语阅读(本人原汁原味翻译)
 
 When I was younger, I scared my mother to death, the things I would blurt out about District 12, about people who rule our country, Panem, from the far-off city called the Capitol.
-当我还小的时候, 我总会把妈妈吓死, 因为我常脱口而出一些关于12区的事, 以及那些来自遥远的称为"首都"的城市, 统治我们国家Panem的人. 
+当我还小的时候, 我总会把妈妈吓死, 因为我常脱口而出一些关于12区的事, 以及那些来自遥远的称为"国都"的城市, 统治我们国家Panem的人. 
 
 Eventually I understood this would only lead us to more trouble.
 最终, 我明白这样做只会带来更多的麻烦.
@@ -396,7 +396,7 @@ His expression brightens at the treat.
 "谢谢, Prim. 我将会有一场真正的盛宴."
 
 Suddenly he falls into a Capitol accent as he mimics Effie Trinket, the maniacally upbeat woman who arrives once a year to read out the names at the reaping.
-突然他用首都的口音模仿了Effie Trinket, 一个狂热乐观的女人,  每年都来到收割典礼上宣读名单.
+突然他用国都的口音模仿了Effie Trinket, 一个狂热乐观的女人,  每年都来到收割典礼上宣读名单.
 
 "I almost forgot! Happy Hunger Games!"
 "我差点忘了! 祝你们饥饿游戏快乐!"
@@ -427,7 +427,7 @@ We have to joke about it because the alternative is to be scared out of your wit
 我们不得不这样做, 因为不然的话就是被吓得魂飞魄散.
 
 Besides, the Capitol accent is so affected, almost anything sounds funny in it.
-而且, 首都的口音太做作, 几乎任何东西在那口音都听起来很滑稽.
+而且, 国都的口音太做作, 几乎任何东西在那口音都听起来很滑稽.
 
 词组/短语:
 
@@ -756,7 +756,7 @@ She presses her lips together and then smiles.
 她抿起双唇, 然后笑了.
 
 "Well, if I end up going to the Capitol, I want to look nice, don't I?"
-"好吧, 如果最后我去了首都, 我想看起来很漂亮, 不是吗?"
+"好吧, 如果最后我去了国都, 我想看起来很漂亮, 不是吗?"
 
 词组/短语:
 
@@ -770,7 +770,7 @@ Does she mean it? Or is she messing with him? I'm guessing the second.
 她是认真的吗？ 还是在糊弄他？我猜是后者.
 
 "You won't be going to the Capitol," says Gale coolly.
-"你不会去首都的," Gale冷冷地说.
+"你不会去国都的," Gale冷冷地说.
 
 His eyes land on a small, circular pin that adorns her dress.
 他的目光落在她衣服上那枚小小的圆形胸针上.
@@ -884,7 +884,7 @@ Not impossible, but slim.
 不是说不可能, 只是几率渺茫.
 
 And even though the rules were set up by the Capitol, not the districts, certainly not Madge's family, it's hard to resent those who don't have to sign up for tessera.
-而且, 虽然这些规则是由首都而非各区制定的, 更加不是由Madge家人定制, 但是我们很难不对哪些根本不用为"票卷"而报名的人产生怨恨.
+而且, 虽然这些规则是由国都而非各区制定的, 更加不是由Madge家人定制, 但是我们很难不对哪些根本不用为"票卷"而报名的人产生怨恨.
 
 词组/短语:
 
@@ -900,7 +900,7 @@ A way to plant hatred between the starving workers of the Seam and those who can
 这是一种在"矿脉"的饥饿工人们与那些通常能吃上晚餐的人们之间植入仇恨的手段, 并且由此确保我们永远不会彼此信任.
 
 "It's to the Capitol's advantage to have us divided among ourselves," he might say if there were no ears to hear but mine.
-"让我们内部分裂, 就是首都的有利条件, " 如果除了我之外没有人能听到, 他大概会这么说.
+"让我们内部分裂, 就是国都的有利条件, " 如果除了我之外没有人能听到, 他大概会这么说.
 
 If it wasn't reaping day.
 如果今日不是收割日
@@ -929,7 +929,7 @@ I do.
 我同意.
 
 But what good is yelling about the Capitol in the middle of the woods?
-但是在树林中对着首都大喊大叫有什么用呢？
+但是在树林中对着国都大喊大叫有什么用呢？
 
 It doesn't change anything.
 它不会改变任何东西.
@@ -1139,7 +1139,7 @@ People file in silently and sign in.
 人们静静地列队并签到.
 
 The reaping is a good opportunity for the Capitol to keep tabs on the population as well.
-收割典礼也是首都监视全体居民的好机会.
+收割典礼也是国都监视全体居民的好机会.
 
 Twelve- through eighteen-year-olds are herded into roped areas marked off by ages, the oldest in the front, the young ones, like Prim, toward the back.
 年龄在12至18岁的青少年被赶进按年龄划分并用绳索围成的区域, 年长的在前面, 年幼的, 比如Prim, 在后面.
@@ -1212,7 +1212,7 @@ set up
 [2025-03-03][英语学习][The Hunger Games][47][P17]原版双语阅读(本人原汁原味翻译)
 
 Two of the three chairs fill with Madge's father, Mayor Undersee, who's a tall, balding man, and Effie Trinket, District 12's escort, fresh from the Capitol with her scary white grin, pinkish hair, and spring green suit.
-三把椅子中有两个坐着人: 一个是Madge的父亲, Undersee的市长, 他是一个高大秃顶的男人. 另一个是第12区的陪同Effie Trinket, 刚从首都赶来, 露出吓人的白牙笑容, 粉色的头发, 穿着春绿色的套装.
+三把椅子中有两个坐着人: 一个是Madge的父亲, Undersee的市长, 他是一个高大秃顶的男人. 另一个是第12区的陪同Effie Trinket, 刚从国都赶来, 露出吓人的白牙笑容, 粉色的头发, 穿着春绿色的套装.
 
 They murmur to each other and then look with concern at the empty seat.
 他们彼此低声交谈了一会儿, 然后关切地看着那个空着地座位.
@@ -1234,10 +1234,10 @@ He lists the disasters, the droughts, the storms, the fires, the encroaching sea
 他列举了种种灾难, 干旱, 风暴, 大火, 以及那个吞噬了大片大陆的海洋, 还有为了仅存的少量食物而进行的残酷战争.
 
 The result was Panem, a shining Capitol ringed by thirteen districts, which brought peace and prosperity to its citizens.
-最终诞生了Panem, 一个闪耀的首都被十三个区环绕着, 为其公民带来了和平和繁荣.
+最终诞生了Panem, 一个闪耀的国都被十三个区环绕着, 为其公民带来了和平和繁荣.
 
 Then came the Dark Days, the uprising of the districts against the Capitol.
-接着就是黑暗时期, 各区对首都的起义.
+接着就是黑暗时期, 各区对国都的起义.
 
 Twelve were defeated, the thirteenth obliterated.
 十二个区被击败, 第十三个区被摧毁.
@@ -1269,7 +1269,7 @@ The last tribute standing wins.
 [2025-03-06][英语学习][The Hunger Games][50][P18]原版双语阅读(本人原汁原味翻译)
 
 Taking the kids from our districts, forcing them to kill one another while we watch —— this is the Capitol's way of reminding us how totally we are at their mercy.
-从各个区抓走我们的孩子, 强迫他们在我们面前互相残杀 —— 这就是首都提醒我们完全任由他们摆布的方式.
+从各个区抓走我们的孩子, 强迫他们在我们面前互相残杀 —— 这就是国都提醒我们完全任由他们摆布的方式.
 
 How little chance we would stand of surviving another rebellion.
 我们在另一场判断中幸存的机会是多么渺茫.
@@ -1287,13 +1287,13 @@ at their mercy
 [2025-03-07][英语学习][The Hunger Games][51][P19]原版双语阅读(本人原汁原味翻译)
 
 To make it humiliating as well as totturous, the Capitol requires us to treat the Hunger Games as a festivity, a sporting event pitting every district against the others.
-为了使其既令人羞辱又令人痛苦, 首都要求我们将饥饿游戏视为一种游戏, 一种让每个区相互竞争的体育赛事.
+为了使其既令人羞辱又令人痛苦, 国都要求我们将饥饿游戏视为一种游戏, 一种让每个区相互竞争的体育赛事.
 
 The last tribute alive receives a life of ease back home, and their district will be showered with prizes, largely consisting of food.
 最后一个活着的贡品将获得回家后的安逸生活, 他们的区将获得大量的奖品, 主要是食物.
 
 All year, the Capitol will show the winning district gifts of grain and oil and even delicacies like suger while the rest of us battle starvation.
-全年, 首都将向获胜的区赠送谷物, 油, 甚至连像糖这样的精致食品, 而我们其他区还在与饥饿做斗争.
+全年, 国都将向获胜的区赠送谷物, 油, 甚至连像糖这样的精致食品, 而我们其他区还在与饥饿做斗争.
 
 词组/短语:
 
@@ -1686,7 +1686,7 @@ He's surprisingly strong for such a wreck.
 [2025-04-09][英语学习][The Hunger Games][70][P24]原版双语阅读(本人原汁原味翻译)
 
 Is he addressing the audience or is he so drunk he might actually be taunting the Capitol?
-他是向观众发表演讲, 还是因为喝醉了而实际上在嘲讽首都?
+他是向观众发表演讲, 还是因为喝醉了而实际上在嘲讽国都?
 
 I'll never know because just as he's opening his mouth to continue, Haymitch plummets off the stage and knocks himself unconscious.
 我永远也不会知道, 因为正当他张口继续讲话时, Haymitch从舞台上摔了下去, 把自己撞晕过去了.
@@ -2775,7 +2775,7 @@ You could hardly see them because they were just huddled in balls and had no woo
 几乎看不见他们, 因为他们只是蜷缩成一团, 而且没有木头生火, 没有火把, 什么都没有.
 
 It was considered very anticlimactic in the Capitol, all those quiet, bloodless deaths.
-在首都看来, 那些安静, 几乎不见血的死亡被认为非常缺乏高潮.
+在国都看来, 那些安静, 几乎不见血的死亡被认为非常缺乏高潮.
 
 Since then, there's usually been wood to make fires.
 从那以后, 竞技场里通常会有木头来生火.
@@ -2922,13 +2922,13 @@ But this is no ordinary coal train.
 但这可不是普通的运煤列车.
 
 It's one of the high-speed Capitol models that average 250 miles per hour.
-他是首都的高速车型, 平均时速达250英里.
+他是国都的高速车型, 平均时速达250英里.
 
 Our journey to the Capitol will take less than a day.
-我们前往首都的旅程耗时不到一天.
+我们前往国都的旅程耗时不到一天.
 
 In school, they tell us the Capitol was built in a place once called the Rockies.
-在学校里, 他们告诉我们首都建在一个曾经被称为Rockies的地方.
+在学校里, 他们告诉我们国都建在一个曾经被称为Rockies的地方.
 
 District 12 was in a region known as Appalachia.
 第12区位于一个叫做Appalachia的区域.
@@ -2949,7 +2949,7 @@ Except for the weekly lecture on the history of Panem.
 每周只有一次关于Panem历史的讲座例外
 
 It's mostly a lot of blather about what we owe the Capitol.
-那基本上都是些关于我们亏欠首都什么的陈词滥调.
+那基本上都是些关于我们亏欠国都什么的陈词滥调.
 
 I know there must be more than they're telling us, an actual account of what happened during the rebellion.
 我知道事实肯定比他们告诉我们的更多, 那是一段关于叛乱时期发生之事的真实记录.
@@ -3034,7 +3034,7 @@ They're funny birds and something of a slap in the face to the Capitol.
 它们是种有趣的鸟, 同时也是对国会区的一种侮辱.
 
 During the rebellion, the Capitol bred a series of genetically altered animals as weapons.
-在叛乱期间, 首都培育了一系列经过基因改造的动物作为武器.
+在叛乱期间, 国都培育了一系列经过基因改造的动物作为武器.
 
 The common term for them was muttations, or sometimes mutts for short.
 它们的通称是"变种兽"(muttations), 有时简称为"mutts".
@@ -3052,7 +3052,7 @@ It took people awhile to realize what was going on in the districts, how private
 各个区的人们花了一段时间才意识到发生了什么，以及私人对话是如何被监听传送的.
 
 Then, of course the rebels fed the Capitol endless lies, and the joke was on it.
-然后, 叛军当然开始向首都灌输无穷无尽的谎言，结果反而戏弄了它.
+然后, 叛军当然开始向国都灌输无穷无尽的谎言，结果反而戏弄了它.
 
 So the centers were shut down and the birds were abandoned to die off in the wild.
 因此这些中心被关闭, 而那些鸟则被遗弃在野外自生自灭.
@@ -3233,7 +3233,7 @@ We go to another compartment to watch the recap of the reapings across Panem.
 我们走向另一个包厢, 观看Panem各区收割典礼的回顾.
 
 They try to stagger them throughout the day so a person could conceivably watch the whole thing live, but only people in the Capitol could really do that, since none of them have to attend reapings themselves.
-他们尽量错开一天之内各区的收割典礼, 以便一个人就理论上可以观看全程直播, 但只有首都的人可以真正地做到这点, 因为他们没有人亲自参加收割典礼.
+他们尽量错开一天之内各区的收割典礼, 以便一个人就理论上可以观看全程直播, 但只有国都的人可以真正地做到这点, 因为他们没有人亲自参加收割典礼.
 
 词组/短语:
 
