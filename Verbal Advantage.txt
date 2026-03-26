@@ -246,10 +246,10 @@ Have little time for: 没时间理会/不屑于
 Word 10: CONGENIAL
 
 Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, nature, or temperament.
-富有同情心的, 令人愉快的, 相容的, 同类的, 和谐的, 具有相同的品味、天性或性情的.
+富有同情心的, 令人愉快的, 相容的, 同类的, 和谐的, 具有相同的品味, 天性或性情的.
 
 Congenial persons have similar or sympathetic tastes, interests, or personalities.
-意气相投的人拥有相似或相近的品味、兴趣或人格.
+意气相投的人拥有相似或相近的品味, 兴趣或人格.
 
 Congenial things agree, go well together.
 相宜的事彼此协调, 能够很好地搭配在一起.
@@ -427,3 +427,33 @@ of little consequence: 无足轻重, 不重要
 little or no……: 几乎没有或完全没有
 warrant attention: 值得关注/需要关注
 warrants little or no attention: 几乎不值得任何关注
+
+Word 15: ADAMANT
+
+Unyielding, immovable, inflexible, refusing to give in, unshakable, unrelenting, implacable.
+不屈服的, 不可动摇的, 僵化的, 拒绝让步的, 坚定不移的, 毫不松懈的, 难以安抚的.
+
+"She was adamant in her opposition to the plan."
+"她坚决反对这个计划."
+
+The adjective adamant comes from the noun adamant, which refers to a hard substance and stone, such as a diamond, that in ancient times was believed to be unbreakable.
+形容词adamant源自名词adamant, 该名词指一种极坚硬的物质或石头, 比如钻石, 在古代被认为具有不可破碎的特性.
+
+There is an old word adamantine, still listed in current dictionaries but not often used;
+还有一个古老的单词adamantine, 虽然仍被收录在现行词典中, 但不常使用;
+
+it means like adamant, very hard, unbreakable.
+它的意思是像adamant一样, 非常坚硬, 不可破碎.
+
+The adjective adamant, which has replaced adamantine in current usage, means hard in the sense of inflexible, immovable, unyielding.
+在现代用法中, 形容词adamant已经取代了adamantine, 表示"坚硬"的引申义为: 不灵活的, 不可动摇的, 坚定不屈的.
+
+词组/短语:
+
+be adamant in/about: 在某事上态度坚决
+refuse to give in: 拒绝让步/不妥协
+refer to: 指的是
+be believed to be: 被认为是……
+in the sense of: 在……意义上
+opposition to (something): 对某事的反对
+in current usage: 在现今的用法中
