@@ -457,3 +457,30 @@ be believed to be: 被认为是……
 in the sense of: 在……意义上
 opposition to (something): 对某事的反对
 in current usage: 在现今的用法中
+
+Word 16: SPORADIC
+
+Occasional, infrequent, irregular, not constant, happening from time to time, occurring in a scattered or random way.
+偶尔的, 不频繁的, 无规律的, 非持续的, 时不时发生的, 以零散或随机的方式发生的.
+
+A business venture may have sporadic success.
+一项商业冒险可能会取得零星的成功.
+
+A gambler's luck may be sporadic.
+赌徒的运气可能是时好时坏.
+
+Sporadic crimes are crimes scattered throughout a city or neighborhood.
+零星犯罪是指散布在城市或社区各处的犯罪活动.
+
+Sporadic outbreaks of a disease in the population are occasional, isolated outbreaks.
+人群中某种疾病的零星爆发是指偶然的, 孤立的暴发.
+
+Antonyms of sporadic include constant, incessant, and unremitting.
+sporadic的反义词包括: 持续的, 不停的, 不间断的.
+
+词组/短语:
+
+from time to time: 不时地, 偶尔
+in a scattered way: 以分散的方式
+at random/in a random way: 随机地
+are scattered throughout……: 分散在……各处
