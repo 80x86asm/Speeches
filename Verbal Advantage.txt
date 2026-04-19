@@ -502,3 +502,41 @@ At the head of: 在……的最前面, 领导……
 Main body: (军队, 著作或机构的)主体, 大部队, 主力部队
 Advance guard: 先遣队, 前卫
 go ahead of: 走在……前面/领先
+
+Word 18: CONCUR
+
+To agree, be in accord with, unite in opinion.
+同意, 与……一致, 在观点上达成统一.
+
+Concur comes from the Latin con-, together, and currere, to run, flow, and means literally to run or flow together, go along with.
+Concur 源自拉丁语: con-（一起）和 currere (奔跑, 流动)，字面意思是"共同奔跑或流动", "随之而行"
+
+That derivation has led to three slightly different meanings of the word.
+这种词源演变出了该词的三种略有不同的含义.
+
+First, concur may be used to act together, combine in having an effect, as "Time and chance concurred in our success."
+第一, concur可以表示共同作用, 合力产生效果，例如: "时间和机遇共同促成了我们的成功."
+
+Second, concur may be used to mean happen together, occur at the same time, coincide, as "His pay raise concurred with his promotion."
+第二, concur 可以表示同时发生, 在同一时间出现, 重合, 例如: "他的加薪与升职同时发生."
+
+The third and most common meaning of concur is to agree, as "Your story concurs with theirs";
+
+第三, 也是最常见的意思是同意, 例如: "你的说法与他们的一致";
+
+"We concurred on almost every point of negotiation."
+"几乎所有的谈判要点我们都达成了一致."
+
+词组/短语:
+
+Be in accord with: 与……一致, 符合.
+Unite in opinion: 意见统一
+Act together: 共同行动, 齐心协力
+Combine in: 结合以实现(某种效果)
+At the same time: 同时
+concur with sth: 与……同时发生
+concur with sb/sth: 与某人/某事一致
+happen together: 一起发生
+coincide with: 巧合发生
+concur on sth: 在某事上达成一致
+
