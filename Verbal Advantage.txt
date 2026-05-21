@@ -431,7 +431,7 @@ warrants little or no attention: 几乎不值得任何关注
 Word 15: ADAMANT
 
 Unyielding, immovable, inflexible, refusing to give in, unshakable, unrelenting, implacable.
-不屈服的, 不可动摇的, 僵化的, 拒绝让步的, 坚定不移的, 毫不松懈的, 难以安抚的.
+不屈服的, 不可动摇的, 僵化的, 拒绝让步的, 坚定不移的, 毫不松懈的, 不可调和的.
 
 "She was adamant in her opposition to the plan."
 "她坚决反对这个计划."
@@ -657,3 +657,22 @@ A corruption of...: ……的讹传, ……的变体
 Of inferior quality: 质量低劣的
 Over time: 随着时间的推移, 久而久之
 Come to mean: 演变为……的意思
+
+Word 23: PEEVISH
+
+Irritable, cross, complaining, fretful, ill-humored and impatient, difficult to please.
+易怒的, 脾气坏的, 爱抱怨的, 烦躁不安的, 喜怒无常且缺乏耐心, 难以取悦的.
+
+There are peevish moods, peevish remarks, and peevish looks.
+有"烦躁的情绪", "抱怨刻薄的话语"和"不高兴的表情/不耐烦的眼神".
+
+A peeve is something that irritates or annoys: "Her pet peeve is a wet towel left on the bed."
+peeve指让人恼火或心烦的事: "她最受不了(pet peeve)的事就是湿毛巾扔在床上."
+
+Peevish means irritable, ill-humored, full of complaints.
+Peevish的意思是易怒的, 喜怒无常, 充满抱怨的.
+
+词组/短语:
+Pet peeve: 个人特别反感, 难以忍受的事(通常是某种具体的行为或习惯)
+difficult to please: 难以取悦
+
