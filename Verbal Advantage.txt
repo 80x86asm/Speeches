@@ -30,7 +30,7 @@ Specious, however, has the negative suggestion of using deception to make someth
 然而, specious带有负面暗示, 即指通过欺骗手段使虚假的事物看起来像是真的.
 
 A specious argument is one that looks good on the surface but is flawed underneath.
-一个"似是而非的论点"(specious argument), 是指表面上看起来不错，但本质上上存在缺陷.
+一个"似是而非的论点"(specious argument), 是指表面上看起来不错, 但本质上上存在缺陷.
 
 Ostensible is often used in opposition to real or actual.
 Ostensible通常作为real(真实的)或actual(实际的)的反义对立词.
@@ -59,7 +59,7 @@ Digress once was used of physical wandering or turning aside, but that sense is 
 Digress过去曾用于表示身体上的游走或转向, 但这种用法现在已经是archaic(古语的, 过时的)
 
 Today we do not say, "She turned right and digressed down Main Street." Instead, digress is used of speaking or writing that departs from the main point or subject at hand and wanders off in another direction:
-现今, 我们不会说："她向右转, 然后顺着主干道digressed下去了." 相反, digress现在用于指说话或写作偏离主要观点或当前主题，并转向其他方向.
+现今, 我们不会说："她向右转, 然后顺着主干道digressed下去了." 相反, digress现在用于指说话或写作偏离主要观点或当前主题, 并转向其他方向.
 
 "In a business report or an oral presentation, it's important to stick to the facts and not digress";
 "在商业报告或口头陈述中, 紧扣事实而不跑题是非常重要的."
@@ -187,7 +187,7 @@ The noun an adept means a highly skilled person, an expert.
 名词adept指的是一个高度熟练的人, 一位专家.
 
 The adjective adept means skilled, dexterous, proficient: "He was adept at managing his investments, and they always turned a handsome profit."
-形容词adept意为熟练的, 灵巧的, 精通的: 他非常擅长管理自己的投资，而且这些投资总能获得可观的利润.
+形容词adept意为熟练的, 灵巧的, 精通的: 他非常擅长管理自己的投资, 而且这些投资总能获得可观的利润.
 
 词组/短语:
 
@@ -220,7 +220,7 @@ from + doing: 表示"由于……而" as from drinking too much liquor
 Word 9 Pragmatic
 
 Practical having to do with actual practice, concerned with everyday affairs as opposed to theory or speculation.
-务实的, 与实际操作有关的, 关注日常事务，而非理论或推测.
+务实的, 与实际操作有关的, 关注日常事务, 而非理论或推测.
 
 Pragmatic comes from the Latin pragmaticus, which means skilled in business or law.
 Pragmatic源自拉丁语pragmaticus, 意为精通业务或法律.
@@ -491,7 +491,7 @@ The forefront of an action or movement, leading position or persons in a movemen
 行动或运动的最前沿, 在运动中处于领先地位的位置或人物: "他们处于反贫困斗争的最前沿."
 
 In its strict military sense, vanguard means the troops moving at the head of an army, the part of the army that goes ahead of the main body, an advance guard.
-从严格的军事意义上讲，vanguard指的是在军队最前方行进的部队, 即走在主力部队之前的部分，也就是"前卫"或"先遣队".
+从严格的军事意义上讲, vanguard指的是在军队最前方行进的部队, 即走在主力部队之前的部分, 也就是"前卫"或"先遣队".
 
 词组/短语:
 
@@ -509,13 +509,13 @@ To agree, be in accord with, unite in opinion.
 同意, 与……一致, 在观点上达成统一.
 
 Concur comes from the Latin con-, together, and currere, to run, flow, and means literally to run or flow together, go along with.
-Concur 源自拉丁语: con-（一起）和 currere (奔跑, 流动)，字面意思是"共同奔跑或流动", "随之而行"
+Concur 源自拉丁语: con-（一起）和 currere (奔跑, 流动), 字面意思是"共同奔跑或流动", "随之而行"
 
 That derivation has led to three slightly different meanings of the word.
 这种词源演变出了该词的三种略有不同的含义.
 
 First, concur may be used to act together, combine in having an effect, as "Time and chance concurred in our success."
-第一, concur可以表示共同作用, 合力产生效果，例如: "时间和机遇共同促成了我们的成功."
+第一, concur可以表示共同作用, 合力产生效果, 例如: "时间和机遇共同促成了我们的成功."
 
 Second, concur may be used to mean happen together, occur at the same time, coincide, as "His pay raise concurred with his promotion."
 第二, concur 可以表示同时发生, 在同一时间出现, 重合, 例如: "他的加薪与升职同时发生."
@@ -546,7 +546,7 @@ Early development or maturity, especially in mental ability.
 早期发育或成熟, 尤其是在智力方面
 
 The noun precociousness and the adjective precocious come from the Latin praecox, which means premature, or literally, "ripening before its time."
-名词precociousness和形容词precocious源自拉丁语praecox, 意为"早产的, 过早的"，或者字面意思上的"在时间之前就成熟"
+名词precociousness和形容词precocious源自拉丁语praecox, 意为"早产的, 过早的", 或者字面意思上的"在时间之前就成熟"
 
 Precocious is most often used of children whose intellectual or emotional development is unusually advanced.
 Precocious 最常用于形容那些在智力或情感发展方面异常超前的儿童
@@ -567,7 +567,7 @@ Apart, at a distance, removed, withdrawn, not wishing to speak or associate with
 疏开的, 保持距离的, 孤立的, 沉默寡言的, 不愿与他人交谈或交往.
 
 The aloof person is emotionally reserved and keeps a cool distance from others.
-一个冷淡的人在情感上是内敛的，并与他人保持着一种冷漠的距离.
+一个冷淡的人在情感上是内敛的, 并与他人保持着一种冷漠的距离.
 
 Aloofness means reluctance to get involved or take an interest in something.
 Aloofness意味着不愿参与某事或对某事不感兴趣.
@@ -587,7 +587,7 @@ reluctance to do something: 不情愿做某事
 Word 21: CREED
 
 Belief, professed faith or opinion, especially a system of religious belief.
-信条, 公开声明的信仰或观点，尤指一种宗教信仰体系.
+信条, 公开声明的信仰或观点, 尤指一种宗教信仰体系.
 
 Synonyms include doctrine and dogma.
 近义词包括doctrine(教义) 和 dogma(教条)
@@ -596,7 +596,7 @@ In the United States it is illegal to discriminate against someone based on race
 在美国, 基于种族或信条,信仰, 而歧视他人是违法的.
 
 Creed comes from the Latin credo, "I believe," the source of the English word credo (KREE-doh or, like the Latin, KRAY-doh).
-Creed源自拉丁语credo, 意为"我相信", 它也是英语单词credo(KREE-doh，或遵循拉丁语发音 KRAY-doh)的来源.
+Creed源自拉丁语credo, 意为"我相信", 它也是英语单词credo(KREE-doh, 或遵循拉丁语发音 KRAY-doh)的来源.
 
 A Credo is a declared set of beliefs or opinions.
 Credo 指公开声明的一套信念或观点.
@@ -698,3 +698,71 @@ Raising children: 抚养孩子
 hard to achieve or accomplish: 难以实现或完成
 require great effort: 需要巨大努力
 raise children: 养育孩子
+
+Word 25: PERSONABLE
+
+Attractive, pleasing in appearance, handsome, comely, fair, presentable.
+有吸引力的, 外观令人愉悦的, 英俊的, 清秀的, 白皙的, 端庄得体的.
+
+In recent years, personable has come to be used to mean having a nice personality.
+近年来, personable逐渐被人们用来表示"拥有讨人喜欢的性格".
+
+You should avoid using the word in that way.
+你应该避免这样使用这个词.
+
+The words sociable, affable, and amiable already suggest people who are friendly, pleasant, and approachable.
+sociable(善于交际的), affable(和蔼可亲的) 和 amiable(亲切友善的)这些词, 本来就已经表示一个人友好, 令人愉快, 容易接近.
+
+There is no need for personable to take over this sense.
+没必要让personable来接管这一含义.
+
+An awkward or unbecoming person, no matter how friendly and pleasant, cannot correctly be personable.
+一个笨拙或相貌不讨喜的人, 无论多么友好和讨人喜欢, 都不能被称为personable.
+
+Reserve personable for someone who is either attractive in appearance or attractive both in appearance and personality.
+请将personable保留给那些在外貌上具有吸引力, 或者在外貌和性格上都具有吸引力的人.
+
+词组/短语:
+
+In recent years: 近年来
+Come to be used to: 逐渐被用来
+No matter how: 无论多么……
+Reserve for: 保留……给……
+suggest (that): 表示, 暗示, 体现出
+there is no need for: 没有必要……
+take over: 接管, 取代, 占据
+
+Word 26: RESOLUTE
+
+Firmly determined or settled, resolved, having a set opinion or purpose, steadfast, unwavering, persevering.
+坚定不移或已作决定, 下定决心的, 持有明确的意见或目的, 稳固的, 不动摇的, 坚持不懈的.
+
+Resolute comes from the Latin resolvere, the source also of the verb to resolve, which means to decide, determine, settle once and for all:
+Resolute源自拉丁语resolvere, 这也是动词resolve的来源, 意为决定, 确定, 一劳永逸地解决:
+
+"After much debate, the board of directors resolved to go ahead with the five-year plan."
+"经过多次辩论, 董事会决定继续执行五年计划."
+
+"The lawyer tried to resolve the case out of court."
+"律师试图决定在庭外解决此案."
+
+Resolute means resolved in one's opinion or purpose:
+Resolute指在个人意见或目标上非常坚定：
+
+"He was resolute about earning a master's degree and starting a successful business."
+"他坚决要获得硕士学位并开启一项成功的事业."
+
+Antonyms of resolute include irresolute, unsteady, and vacillating(VAS-i-lay--ting).
+Resolute的反义词包括 irresolute(优柔寡断的), unsteady(不稳定的)以及vacillating(犹豫不决的).
+
+词组/短语:
+
+After much debate: 经过长时间/大量的辩论
+Board of directors: 董事会(公司治理中的标准术语)
+Go ahead with: 继续进行, 着手做某事
+Out of court: 庭外(指法律诉讼在开庭前达成和解)
+Resolve the case: 解决案件(法学/法律事务中的常用搭配)
+Earning a degree: 获得学位(学术背景下的动宾搭配)
+Starting a business: 创业, 开展业务
+resolve to do something: 下定决心做某事
+be resolute about: 坚决要……, 坚定于……
