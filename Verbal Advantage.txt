@@ -469,7 +469,7 @@ A business venture may have sporadic success.
 A gambler's luck may be sporadic.
 赌徒的运气可能是时好时坏.
 
-Sporadic crimes are crimes scattered throughout a city or neighborhood.
+Sporadic crimes are crimes scattered throughout a city or neighbourhood.
 零星犯罪是指散布在城市或社区各处的犯罪活动.
 
 Sporadic outbreaks of a disease in the population are occasional, isolated outbreaks.
@@ -766,3 +766,93 @@ Earning a degree: 获得学位(学术背景下的动宾搭配)
 Starting a business: 创业, 开展业务
 resolve to do something: 下定决心做某事
 be resolute about: 坚决要……, 坚定于……
+
+Word 27: SUPPOSITION (SUHP-uh-ZISH-in)
+
+An assumption, theory, hypothesis.
+一种假定, 理论, 假设.
+
+To suppose means to assume as true, put something forward for consideration.
+动词"suppose"意为"假定为真", 即将某事提出以供考量.
+
+A supposition is something supposed, an idea put forward for consideration.
+supposition就是: 一个被假定成立的事情, 一个提出供讨论, 考虑的想法。
+
+A hypothesis (hy-PAHTH-uh-sis), a conjecture (kun-JEK-chur), and a supposition are all assumption or theories.
+hypothesis(假说), conjecture(猜测)和supposition(假定), 都属于假设或理论.
+
+A hypothesis is a preliminary or incomplete theory based on insufficient evidence:
+Hypothesis是一种基于不足的证据而提出的初步或不完整的理论:
+
+"There are conflicting hypotheses about the origin of the universe."
+"关于宇宙起源, 目前存在彼此相互矛盾的各种假说。"
+
+(The plural, hypotheses, is pronounced hy-PAHTH-uh-seez.)
+(复数形式为hypotheses, 发音为 /hy-PAHTH-uh-seez/)
+
+A conjecture is an assumption based on so little evidence that it is merely an educated guess:
+Conjecture是一种基于极少证据的假设, 仅属于一种有根据的猜测(臆测)：
+
+"Every week we hear different conjectures about trends in the stock market."
+"每周我们都能听到关于股市趋势的不同臆测(猜测)."
+
+A supposition may be based on ample evidence or no evidence at all, and may be sensible or irrational:
+Supposition可能基于充分的证据, 也可能完全没有任何证据, 它既可以是合理的, 也可以是不理性的:
+
+"His supposition about the company's financial condition proved consistent with the facts."
+"他关于公司财务状况的推测被证明与事实一致."
+
+词组/短语:
+
+Put forward for consideration: 提出以供考量
+Based on……: 基于……
+An educated guess: 受过教育的猜测(即: 推测, 臆测, 指虽然缺乏证据但基于一定知识储备的判断)
+Consistent…… with: 与……一致(常用于描述证据、结论或行为符合事实)
+The origin of……: ……的起源
+assume as true: 认为……是真的
+insufficient evidence: 证据不足
+ample evidence: 充分的证据
+no evidence at all: 根本没有任何证据
+prove consistent with: 与……一致, 符合……
+
+Word 28: ARBITRARY
+
+Unreasoned, based on personal feeling or preferences rather than on reason, logic, or law:
+不理性的, 基于个人情感或偏好, 而非建立在理性、逻辑或法律之上:
+
+"An arbitrary price for a product is not necessarily a fair price."
+"一款产品的任意定价(专断的价格)未必是合理的价格."
+
+"His arbitrary decisions have cost the company a lot of money."
+"他那些武断的决定, 使公司损失了很多钱."
+
+Arbitrary comes from the same Latin source as the words arbiter (AHR-bi-tur) and arbitrator (AHR-bi-TRAY-tur).
+arbitrary 与 arbiter 和 arbitrator 都来源于同一个拉丁语词源.
+
+Arbiter and arbitrator both mean a judge or umpire who makes a final decision or resolves a dispute.
+Arbiter 和 arbitrator 都指代做出最终裁决或解决争端的法官或裁判.
+
+Arbitrary means making discretionary judgments or decisions that may or may not be fair or reasonable.
+arbitrary指凭个人裁量作出判断或决定, 而这些判断可能公平或者合理, 也可能不公平或者不合理.
+
+Arbitrary has two other useful meanings: It may mean determined or arrived at in a random or illogical manner.
+arbitrary还有另外两个常用含义: 它还可以表示以随机或不合逻辑的方式决定或得出的
+
+For example, the arrangement of furniture in a room may be arbitrary, without an evident theme or pattern;
+例如, 房间里的家具摆放可能是随意安排的, 没有明显的主题或规律.
+
+Arbitrary decisions are arrived at in a hasty, haphazard way.
+武断的决定通常是以仓促、杂乱无章的方式做出的.
+
+Arbitrary may also mean exercising unrestrained or absolute power: an arbitrary government has no regard for individual liberty.
+Arbitrary也可以表示行使不受限制或绝对的权力: 一个专制的政府根本不尊重个人自由.
+
+词组/短语:
+
+not necessarily: 未必, 不一定
+arrive at sth: 达成, 得出 (结论、决定等)
+have no regard for sth: 不顾及, 对……漠不关心/无视
+arbitrary decision: 武断的决定
+cost sb money: 使某人损失钱财
+the same source as: 与……同源
+discretionary: 凭个人裁量的, 不是依据法律规定
